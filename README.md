@@ -4,7 +4,7 @@
 ![My Sokoban Game Preview](preview.png)
 
 ## Overview 🌟
-I've developed "My Sokoban," a game inspired by the classic warehouse keeper challenge. The game is implemented in C using the ncurses library, providing an engaging terminal-based experience.
+I've developed "My Sokoban," a game inspired by the classic warehouse keeper challenge. The game is implemented in C using the ncurses library.
 
 ## Features 🛠️
 - **Game Mechanics**: The player pushes boxes to storage locations in a warehouse-like setting.
