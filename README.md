@@ -27,7 +27,7 @@ This project aimed to recreate a nostalgic game while adding personal creative e
 ## How to Use 🖥️
 To compile and run the game, use the following commands:
 ```bash
-make && ./my_sokoban map_file
+make && ./my_sokoban [map_file]
 ```
 You can use the examples maps in the folder maps/ of the repo.
 
@@ -37,6 +37,6 @@ You can use the examples maps in the folder maps/ of the repo.
 - **ESC**: Exit the game.
 
 ## Game Over 💀
-- The game ends when all boxes are on storage locations or no more moves are possible.
+- The game ends when all boxes are on storage locations or when ALL boxes are blocked.
 
 
