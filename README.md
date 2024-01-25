@@ -28,3 +28,6 @@ This project aimed to recreate a nostalgic game while adding personal creative e
 To compile and run the game, use the following commands:
 ```bash
 make && ./my_sokoban map_file
+```
+You can use the examples maps in the folder maps/ of the repo.
+
