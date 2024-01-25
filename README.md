@@ -31,3 +31,12 @@ make && ./my_sokoban map_file
 ```
 You can use the examples maps in the folder maps/ of the repo.
 
+## Key Bindings ⌨️
+- **Arrow Keys**: Move the player.
+- **Space**: Reset the game.
+- **ESC**: Exit the game.
+
+## Game Over 💀
+- The game ends when all boxes are on storage locations or no more moves are possible.
+
+
